@@ -5,10 +5,14 @@ import java.util.Scanner;
 public class escolheMes {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
+		//Pede ao usuário para inserir um número
 		System.out.print("Insira o número do mês: ");
+		//Guarda na variável mes
 		int mes;
 
 		mes = input.nextInt();
+		//recebe o input e testa os cases, se for dentro dos 12 cases ele retorna o mês, 
+		//senão, retorna erro
 		switch (mes) {
 		case 1:
 			System.out.println("Janeiro");
