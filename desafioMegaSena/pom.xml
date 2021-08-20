@@ -16,7 +16,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>br.com.priss.megaSena</mainClass>
+            <mainClass>br.com.priss.megaSena.MegaSena</mainClass>
           </manifest>
         </archive>
       </configuration>
