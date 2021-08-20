@@ -16,7 +16,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>br.com.priss.escolheMes</mainClass>
+            <mainClass>br.com.priss.escolheMes.escolheMes</mainClass>
           </manifest>
         </archive>
       </configuration>
